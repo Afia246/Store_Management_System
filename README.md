@@ -28,7 +28,7 @@ Here is how :
 
 ## License
 
-RuangAdmin is an open source and licensed under **[MIT](http://opensource.org/licenses/MIT)**
+RuangAdmin is a open source and licensed under **[MIT](http://opensource.org/licenses/MIT)**
 
 
 
